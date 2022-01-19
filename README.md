@@ -3,14 +3,10 @@ Repository of assignments done as part of CSE340 - Digital Image Processing cour
 
 # Description
 
-## A-1 
-Based on bilinear interpolation technique
+1. A-1 Based on bilinear interpolation technique
 
-## A-2
-Based on histogram equalization and convolution
+2. A-2 Based on histogram equalization and convolution
 
-## A-3
-Based on filtering and denoising images in fourier domain
+3. A-3 Based on filtering and denoising images in fourier domain
 
-## A-4
-Based on constrained least squares filtering and histogram equalization for RGB images in HSI domain
+4. A-4 Based on constrained least squares filtering and histogram equalization for RGB images in HSI domain
